@@ -1,0 +1,9 @@
+[submodule "UnSHc"]
+	path = UnSHc
+	url = https://github.com/yanncam/UnSHc.git
+[submodule "kubernetes-conjur-deploy"]
+	path = kubernetes-conjur-deploy
+	url = https://github.com/cyberark/kubernetes-conjur-deploy.git
+[submodule "container-service-for-azure-china"]
+	path = container-service-for-azure-china
+	url = https://github.com/Azure/container-service-for-azure-china.git
